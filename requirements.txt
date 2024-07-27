@@ -5,3 +5,4 @@ gradio
 folium
 geopy
 llama-index
+datasets
